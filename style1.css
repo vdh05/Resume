@@ -1,0 +1,23 @@
+table,td,th
+{
+    text-align: center;
+    border-style:double;
+    width:100px;
+    height: 150px;
+    padding: 25px;
+    border-spacing:20px;
+
+}
+body
+{
+    background-color: rgb(253, 187, 187);
+}
+.s
+{
+    text-align: center;
+    color:crimson;
+}
+.red
+{
+    background-color: aqua;
+}
